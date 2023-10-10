@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a software business analyst and QA engineer, while doing some delivery management.
+- 🔭 I’m currently working as a QA engineer and software business analyst. I'm also doing some operations of the SDLC such as temporary deployments of branches in order to test them and then merge code in stable branches before the final release. My job also includes parts of the role of a delivery manager.
 - 🪶 Fun fact: I'm a birdnerd 🪹🦉
 - 🧘🏽‍♀️ Interests: Yoga, Blogging about {music, digital art, photography, psychology, science}, Embroidery, PC building, Software testing
 - 📫 You can find me: [@Linkedin](https://www.linkedin.com/akouim), [@Pinterest](https://www.pinterest.com/dpkgme/), [@Spotify](https://open.spotify.com/user/akmz)
