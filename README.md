@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 - 🔭 I’m currently working as a QA engineer and software business analyst. I'm also doing some SDLC operations such as temporary deployments of branches in order to test them and then merge code in stable branches before the final release. My job also includes parts of a delivery manager's role.
 - 🪶 Fun fact: I'm a birdnerd 🪹🦉
