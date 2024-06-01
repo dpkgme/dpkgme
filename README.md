@@ -4,4 +4,4 @@
 - 🪶 Fun fact: I'm a birdnerd 🪹🦉
 - 🎧 Interests/Hobbies: Music, Yoga 🧘🏽‍♀️, Reading and talking about digital art, photography, psychology, science, software (testing)
 - 📼 Rare or past activities: Blogging, PC building, Skiing
-- 💻 Elsewhere: [Spotify](https://open.spotify.com/user/akmz), [X](https://x.com/dpkgme), [Linkedin](https://www.linkedin.com/in/akouim)
+- 💻 Elsewhere: [Spotify](https://open.spotify.com/user/akmz), [Linkedin](https://www.linkedin.com/in/akouim), [X](https://x.com/dpkgme)
