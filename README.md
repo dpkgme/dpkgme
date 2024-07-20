@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-- 🔭 I’m currently working as a technical coordinator of software services, with an active role in QA, testing, business analysis, delivery and devops.
+- 👩🏻‍💻 I’m currently working as a technical coordinator of software services, with an active role in QA, testing, business analysis, delivery and devops.
 - 🪶 Fun fact: I'm a birdnerd 🪹🦉
 - 🎧 Interests/Hobbies: Music, Yoga 🧘🏽‍♀️, Reading and talking about digital art, photography, psychology, science, software (testing)
 - 📼 Rare or past activities: Blogging, PC building, Gaming, Video editing, Skiing
