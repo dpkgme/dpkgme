@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏻🦉👩🏻‍💻
 
 I am a Technical Coordinator of software services, with a focus on Quality Engineering.
 
