@@ -6,3 +6,4 @@ I'm passionate about staying current with the IT industry, exploring emerging te
 
 - I have made small contributions mainly to bluesky and atproto communities: [Add Greek Language ('el') Support and Internationalization-#6677]( https://github.com/bluesky-social/social-app/pull/6677), [userinput.app](https://userinput.app/o/dpkgme.at)
 - [My page for personal projects beyond work](https://dpkgme.at)
+- [Limited resume](https://dpkgme.github.io/resume/), without companies' details
